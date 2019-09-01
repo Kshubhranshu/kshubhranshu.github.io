@@ -64,6 +64,7 @@ a {
     }
   }
   @media (max-width: 650px) {
+      
     .menu > ul {
       max-height: 0;
       overflow: hidden;
@@ -138,8 +139,7 @@ a {
   h1 {
     font-family: 'Anton', sans-serif;
     text-align: center;
-    margin: 0 auto;
-    margin-top: 75px;
+    margin: 75px auto;
     font-size: 50px;
   }
   
