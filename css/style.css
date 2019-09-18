@@ -189,10 +189,7 @@ a {
     font-size: 40px;
 
   }
-  .date {
-    position: static;
-    margin-top: 40px;
-  }
+  
 
 /* @media only screen and (max-width: 652px) {
 .date  {
