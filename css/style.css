@@ -188,7 +188,20 @@ a {
     font-family: 'Courier New', Courier, monospace;
     font-size: 40px;
 
-}
+  }
+  .date {
+    position: static;
+    margin-top: 40px;
+  }
+
+/* @media only screen and (max-width: 652px) {
+.date  {
+       position: absolute;
+       margin-top: 5px; 
+       margin: 0 auto;
+       text-align: center;
+  }
+} */
 
 @media only screen and (max-width: 600px) {
   .about-content {
@@ -237,9 +250,7 @@ a {
     background: green;
     color: white;
 }
-.date p{
-    margin-top: 40px;
-}
+
 //my_work_page
 
 .row::after {
