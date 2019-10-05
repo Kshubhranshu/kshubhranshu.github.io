@@ -4,7 +4,7 @@ categories:
   - WebDevelopment
   - Software Testing
 date: 2019-08-20 00:00:00
-featured_image: /uploads/Screenshot from 2019-10-05 15-43-44.png
+featured_image: /uploads/Screenshot from 2019-10-05 15-43-44.gif
 recipe:
   servings:
   prep:
