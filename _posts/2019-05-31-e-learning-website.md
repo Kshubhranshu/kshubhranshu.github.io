@@ -16,18 +16,16 @@ recipe:
     * Mysql
     * Node.js
   directions_markdown: >-
-    &nbsp;
+    1. E - Learning web app prototype for the students.
 
+    2. Features(Student) : View Notes, Watch Videos and Discuss.
 
-    1. software requirement: mysql, workbench, text editor, web browser
+    3. Features(Admin) : CRUD operation on content management.and reply to
+    discussion.
 
-    2. clone or download
-    from&nbsp;[https://github.com/Kshubhranshu/inertia.com](https://github.com/Kshubhranshu/inertia.com)
-
-    3. install npm packages: node.js, express.js, ejs, mysql,
-
-    4. after package installation run the local server using npm init/ node
-    app.js
+    4. clone or
+    download&nbsp;[https://github.com/Kshubhranshu/inertia.com](https://github.com/Kshubhranshu/inertia.com){:
+    target="_blank"}
 ---
 
 * E - Learning web app prototype for the students.

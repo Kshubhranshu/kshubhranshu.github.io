@@ -12,15 +12,13 @@ recipe:
     * C
     * File Management
   directions_markdown: >-
-    1. Software Requirements : text editor, gcc compiler
+    1. A simple QnA type quiz game for fun. The player answers simple questions
+    for a number of coins. The highest score and along with the name of the
+    scorer is stored.
 
     2. Clone or download
-    form&nbsp;[https://github.com/Kshubhranshu/frontend-dev....git](https://github.com/Kshubhranshu/frontend-dev....git){:
-    target="_blank"}
-
-    3. Compile the file using<br>gcc quizz.c -o quizz
-
-    4. Run the command ./quizz
+    form&nbsp;[https://github.com/](https://github.com/Kshubhranshu/quiz-game.git){:
+    target="_blank"}quiz-game
 ---
 
 A simple QnA type quiz game for fun. The player answers<br>simple questions for a number of coins. The highest score and<br>along with the name of the scorer is stored.
