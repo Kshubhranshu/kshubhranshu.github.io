@@ -3,7 +3,7 @@ title: Template Designs
 categories:
   - WebDevelopment
 date: 2019-02-28 00:00:00
-featured_image: /uploads/Screenshot from 2019-06-20 16-04-39.png
+featured_image: /uploads/Screenshot from 2019-06-20 16-04-39.gif
 recipe:
   servings:
   prep:
