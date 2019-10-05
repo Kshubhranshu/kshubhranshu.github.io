@@ -1,94 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#f5f5f5">
+---
+title: Home
+---
+<section class="posts">
+	{% for post in paginator.posts %}
+		<article class="post">
+			{% include post-heading.html post=post %}
+			<div class="image">
+				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+			</div>
 
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="icon" href="image/man-on-his-knees-stretching-back.png" type="image/gif" sizes="16x16">
-    <script src="https://kit.fontawesome.com/058ef1489b.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="https://kit.fontawesome.com/058ef1489b.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+			{{ post.excerpt }}
 
-    
+			<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+		</article>
+	{% endfor %}
 
+	{% if paginator.total_pages > 1 %}
+		<div class="pagination">
+			{% if paginator.previous_page %}
+				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+			{% endif %}
 
+			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
 
-
-    <title>Welcome to K13 </title>
-</head>
-<body>
-    <input type="checkbox" id="navbar-checkbox" class="navbar-checkbox">
-<nav class="menu">
-  <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="i_me_myself.html">I Me & Myself</a></li>
-        <li><a href="my_work.html">My work</a></li>
-
-    <li>
-      <a href="document/Kumar's Resume.pdf" download>Download my resume</a>
-      </li>
-    <li><a href="blank.html" target="_blank">Blog</a></li>
-
-  </ul>
-  
-  
-  <label for="navbar-checkbox" class="navbar-handle"></label>
-</nav>
-<header> 
-<br><br><br><br><br><br><br><br><br>
-<div class="date">
-
-                <p id="day" style="text-align: center;background: green;"></p>
-                <p id="month" style="text-align: center;background: green;"></p>
-                <p id="year" style="text-align: center;background: green;"></p>
-</div>
-    <h1> <img class="zoom" src="image/WhatsApp Image 2019-09-01 at 6.37.37 PM.jpeg" alt=""> Kumar Shubhranshu</h1>
-</header>
-<p style="text-align: center;margin: 0 auto;font-family: 'Cedarville Cursive', cursive;font-size:2em;
-"> Fold your ego <br> and make paper palnes. <br> I swear, <br> You'll fly. </p>
-<h1 class="typewriter">
-        <a href="" style="text-decoration: none;" class="typewrite" data-period="2000" data-type='[ "Hi, Sastriyakal, Namaste, Yo Bro.", "I Love Teaching.", " I love Yoga. ", "I write Code.", "I write Technical Stuff." ,"Improving my Data Structues and Algorithms.", "I love Cooking."]'>
-          <span class="wrap"></span>
-        </a>
-</h1>
-<br><br>
-<div class="contact">
-    <a href="https://github.com/Kshubhranshu" target="_blank"> <i class="fab fa-github-alt" style="color:black;"></i> </a>
-    <a href="https://twitter.com/shubhranshu1397" target="_blank"> <i class="fab fa-twitter" style="color:deepskyblue"></i> </a>
-    <a href="https://www.linkedin.com/in/kumar-shubhranshu-009a11132" target="_blank"> <i class="fab fa-linkedin-in" style="color: skyblue"></i> </a>
-    <a href="mailto:shubhranshu14@gmail.com" target="_blank">  <i class="fas fa-at" style="color: rgb(207, 36, 36)"></i> </a> <br>
-    <span style="color: black"> Send your feedback at <a href="https://api.whatsapp.com/send?phone=917568922295" target="_blank"> <i class="fab fa-whatsapp" style="color: green" target="_blank"></i> </a>
-    </span>
-    <div class="counter">
-      <!-- hitwebcounter Code START -->
-<a href="http://www.hitwebcounter.com" target="_blank">
-  <img src="http://hitwebcounter.com/counter/counter.php?page=7134319&style=0007&nbdigits=5&type=page&initCount=0" title="good hits" Alt="good hits"   border="0" >
-  </a>                                        <br/>
-      <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
-      target="_blank" style="font-family: ; 
-      font-size: px; color: #; text-decoration:  ;">
-  </a>   
-                              
-    </div>
-
-
-
-
-
-    
-</div>
-
-
-
-      
-<script src="js/script.js"></script>
-</body>
-</html>
+			{% if paginator.next_page %}
+				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
+			{% endif %}
+		</div>
+	{% endif %}
+</section>
