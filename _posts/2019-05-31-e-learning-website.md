@@ -34,14 +34,14 @@ recipe:
 
 **LANDING PAGE**
 
-![](/uploads/peek-2019-10-05-11-49.gif){: width="1364" height="468"}
+![](/uploads/peek-2019-10-05-11-49.gif){: width="1364" height="698"}
 
-**ABOUT US PAGE**![](/uploads/screenshot-from-2019-03-03-15-25-4.png){: width="1366" height="468"}
+**ABOUT US PAGE**![](/uploads/screenshot-from-2019-03-03-15-25-4.png){: width="1366" height="768"}
 
 **VIDEOS PAGE**
 
-**![](/uploads/screenshot-from-2019-03-03-15-25-13.png){: width="1366" height="468"}**
+**![](/uploads/screenshot-from-2019-03-03-15-25-13.png){: width="1366" height="768"}**
 
 **NOTES PAGE**
 
-**![](/uploads/screenshot-from-2019-03-03-15-25-26.png){: width="1366" height="468"}**
+**![](/uploads/screenshot-from-2019-03-03-15-25-26.png){: width="1366" height="768"}**
