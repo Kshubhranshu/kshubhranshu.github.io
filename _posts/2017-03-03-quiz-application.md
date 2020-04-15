@@ -23,10 +23,10 @@ recipe:
 
 A simple QnA type quiz game for fun. The player answers<br>simple questions for a number of coins. The highest score and<br>along with the name of the scorer is stored.
 
-![](/uploads/screenshot-from-2019-10-05-12-19-42.png){: width="1366" height="450"}
+![](/uploads/screenshot-from-2019-10-05-12-19-42.png){: width="1366" height="768"}
 
-![](/uploads/screenshot-from-2019-10-05-12-20-48.png){: width="1366" height="450"}
+![](/uploads/screenshot-from-2019-10-05-12-20-48.png){: width="1366" height="768"}
 
-![](/uploads/screenshot-from-2019-10-05-12-21-14.png){: width="1366" height="450"}
+![](/uploads/screenshot-from-2019-10-05-12-21-14.png){: width="1366" height="768"}
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/screenshot-from-2019-10-05-12-21-56.png){: width="1366" height="450"}
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/screenshot-from-2019-10-05-12-21-56.png){: width="1366" height="768"}
