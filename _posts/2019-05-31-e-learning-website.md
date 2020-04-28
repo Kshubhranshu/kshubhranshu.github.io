@@ -28,20 +28,20 @@ recipe:
     target="_blank"}
 ---
 
-* E - Learning web app prototype for the students.
-* Features(Student) : View Notes, Watch Videos and Discuss.
-* Features(Admin) : CRUD operation on content management.and reply to discussion.
+- E - Learning web app prototype for the students.
+- Features(Student) : View Notes, Watch Videos and Discuss.
+- Features(Admin) : CRUD operation on content management.and reply to discussion.
 
 **LANDING PAGE**
 
 ![](/uploads/peek-2019-10-05-11-49.gif){: width="1364" height="698"}
 
-**ABOUT US PAGE**![](/uploads/screenshot-from-2019-03-03-15-25-4.png){: width="1366" height="768"}
+**ABOUT US PAGE**![](/uploads/screenshot-from-2019-03-03-15-25-4.png){: width="773" height="385"}
 
 **VIDEOS PAGE**
 
-**![](/uploads/screenshot-from-2019-03-03-15-25-13.png){: width="1366" height="768"}**
+**![](/uploads/screenshot-from-2019-03-03-15-25-13.png){: width="773" height="385"}**
 
 **NOTES PAGE**
 
-**![](/uploads/screenshot-from-2019-03-03-15-25-26.png){: width="1366" height="768"}**
+**![](/uploads/screenshot-from-2019-03-03-15-25-26.png){: width="773" height="385"}**

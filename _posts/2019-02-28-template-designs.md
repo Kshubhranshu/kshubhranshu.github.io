@@ -19,8 +19,8 @@ recipe:
     target="_blank"}
 ---
 
-*Few of the UI designed by me as my beginners project list.*
+_Few of the UI designed by me as my beginners project list._
 
-*![](/uploads/screenshot-from-2019-06-20-15-58-7.png){: width="1366" height="768"}*
+_![](/uploads/screenshot-from-2019-06-20-15-58-7.png){: width="385" height="768"}_
 
-*![](/uploads/screenshot-from-2019-06-20-16-08-7.png){: width="1366" height="768"}![](/uploads/screenshot-from-2019-06-20-16-04-39.png){: width="1366" height="768"}![](/uploads/screenshot-from-2019-06-20-16-05-23.png){: width="1366" height="768"}![](/uploads/screenshot-from-2019-06-20-16-03-56.png){: width="1366" height="768"}![](/uploads/screenshot-from-2019-06-20-15-56-34.png){: width="1366" height="768"}![](/uploads/screenshot-from-2019-06-17-16-49-5.png){: width="1366" height="768"}*
+_![](/uploads/screenshot-from-2019-06-20-16-08-7.png){: width="385" height="768"}![](/uploads/screenshot-from-2019-06-20-16-04-39.png){: width="385" height="768"}![](/uploads/screenshot-from-2019-06-20-16-05-23.png){: width="385" height="768"}![](/uploads/screenshot-from-2019-06-20-16-03-56.png){: width="385" height="768"}![](/uploads/screenshot-from-2019-06-20-15-56-34.png){: width="385" height="768"}![](/uploads/screenshot-from-2019-06-17-16-49-5.png){: width="385" height="768"}_

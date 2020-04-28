@@ -1,5 +1,5 @@
 ---
-title: 'Software Developer Intern, IIY Software'
+title: "Software Developer Intern, IIY Software"
 categories:
   - WebDevelopment
   - Software Testing
@@ -53,26 +53,26 @@ Online learning platform for students with CMS support for teachers.
 
 **LANDING PAGE**
 
-![](/uploads/screenshot-from-2019-10-05-15-43-52.png){: width="1366" height="768"}
+![](/uploads/screenshot-from-2019-10-05-15-43-52.png){: width="773" height="385"}
 
-**LOGIN**![](/uploads/screenshot-from-2019-10-05-15-43-57.png){: width="1366" height="768"}
+**LOGIN**![](/uploads/screenshot-from-2019-10-05-15-43-57.png){: width="773" height="385"}
 
-**ABOUT PAGE**![](/uploads/screenshot-from-2019-10-05-15-54-56.png){: width="1366" height="768"}
+**ABOUT PAGE**![](/uploads/screenshot-from-2019-10-05-15-54-56.png){: width="773" height="385"}
 
-**VIDEO PAGE**![](/uploads/screenshot-from-2019-10-05-15-55-1.png){: width="1366" height="768"}
+**VIDEO PAGE**![](/uploads/screenshot-from-2019-10-05-15-55-1.png){: width="773" height="385"}
 
-**VIDEO PLAYBACK PAGE**![](/uploads/screenshot-from-2019-10-05-15-55-43.png){: width="1366" height="768"}
+**VIDEO PLAYBACK PAGE**![](/uploads/screenshot-from-2019-10-05-15-55-43.png){: width="773" height="385"}
 
-**NOTES PAGE**![](/uploads/screenshot-from-2019-10-05-15-55-10.png){: width="1366" height="768"}
+**NOTES PAGE**![](/uploads/screenshot-from-2019-10-05-15-55-10.png){: width="773" height="385"}
 
-**ADMIN DASHBOARD(CMS)**![](/uploads/screenshot-from-2019-10-05-15-53-28.png){: width="1366" height="768"}
+**ADMIN DASHBOARD(CMS)**![](/uploads/screenshot-from-2019-10-05-15-53-28.png){: width="773" height="385"}
 
-**STUDENTS DETAILS PAGE(CMS)![](/uploads/screenshot-from-2019-10-05-15-53-34.png){: width="1366" height="768"}**
+**STUDENTS DETAILS PAGE(CMS)![](/uploads/screenshot-from-2019-10-05-15-53-34.png){: width="773" height="385"}**
 
-**VIDEO PAGE(CMS)**![](/uploads/screenshot-from-2019-10-05-15-54-18.png){: width="1366" height="768"}
+**VIDEO PAGE(CMS)**![](/uploads/screenshot-from-2019-10-05-15-54-18.png){: width="773" height="385"}
 
-![](/uploads/screenshot-from-2019-10-05-15-54-22.png){: width="1366" height="768"}
+![](/uploads/screenshot-from-2019-10-05-15-54-22.png){: width="773" height="385"}
 
-**NOTES PAGE(CMS)**![](/uploads/screenshot-from-2019-10-05-15-54-35.png){: width="1366" height="768"}
+**NOTES PAGE(CMS)**![](/uploads/screenshot-from-2019-10-05-15-54-35.png){: width="773" height="385"}
 
-**ABOUT PAGE(CMS)**![](/uploads/screenshot-from-2019-10-05-15-53-53.png){: width="1366" height="768"}
+**ABOUT PAGE(CMS)**![](/uploads/screenshot-from-2019-10-05-15-53-53.png){: width="773" height="385"}
