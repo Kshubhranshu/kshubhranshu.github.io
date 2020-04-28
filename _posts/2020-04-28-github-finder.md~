@@ -3,7 +3,7 @@ title: Github Finder
 categories:
   - reactjs
 date: 2020-04-28 12:00:00
-featured_image: /uploads/peek-2020-04-28-17-56-gfs
+featured_image: /uploads/peek-2020-04-28-17-56-gf
 recipe:
   servings:
   prep:
