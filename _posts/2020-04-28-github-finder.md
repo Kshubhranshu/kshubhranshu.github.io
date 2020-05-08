@@ -3,7 +3,7 @@ title: Github Finder
 categories:
   - reactjs
 date: 2020-04-28 12:00:00
-featured_image: /uploads/peek-2020-04-28-17-56-gf.gif
+featured_image: /uploads/peek-2020-04-28-17-56.gif
 recipe:
   servings:
   prep:
@@ -26,4 +26,4 @@ recipe:
 
 Github finder is bootstrapped with create react app and it help user to search and view github profiles.
 
-![](/uploads/peek-2020-04-28-17-56-gf.gif){: width="773" height="385"}
+![](/uploads/peek-2020-04-28-17-56.gif){: width="773" height="385"}
